@@ -1,2 +1,3 @@
 # Pages
-das hier ist die SEITE
+Das hier ist die Seite!
+
